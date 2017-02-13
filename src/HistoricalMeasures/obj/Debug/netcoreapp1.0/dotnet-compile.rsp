@@ -1,5 +1,5 @@
---temp-output:c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\
---out:c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\bin\Debug\netcoreapp1.0\HistoricalMeasures.dll
+--temp-output:C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\
+--out:C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\bin\Debug\netcoreapp1.0\HistoricalMeasures.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -174,7 +174,7 @@
 --reference:C:\Users\uzmamahmood\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\uzmamahmood\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\uzmamahmood\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\HistoricalMeasuresdotnet-compile.deps.json",HistoricalMeasures.deps.json
-c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\Program.cs
-c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\Startup.cs
-c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\Controllers\ValuesController.cs
+--resource:"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\HistoricalMeasuresdotnet-compile.deps.json",HistoricalMeasures.deps.json
+C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\Program.cs
+C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\Startup.cs
+C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\Controllers\ValuesController.cs

@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\bin\Debug\netcoreapp1.0\HistoricalMeasures.dll"
+"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\bin\Debug\netcoreapp1.0\HistoricalMeasures.dll"
 -r:"C:\Users\uzmamahmood\.nuget\packages\Microsoft.ApplicationInsights\2.1.0\lib\dotnet5.4\Microsoft.ApplicationInsights.dll"
 -r:"C:\Users\uzmamahmood\.nuget\packages\Microsoft.ApplicationInsights.AspNetCore\1.0.0\lib\netstandard1.6\Microsoft.ApplicationInsights.AspNetCore.dll"
 -r:"C:\Users\uzmamahmood\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
@@ -170,7 +170,7 @@
 -r:"C:\Users\uzmamahmood\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\uzmamahmood\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\uzmamahmood\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\HistoricalMeasuresdotnet-compile.deps.json",HistoricalMeasures.deps.json
-"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\Program.cs"
-"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\Startup.cs"
-"c:\users\uzmamahmood\documents\visual studio 2015\Projects\HistoricalMeasures\src\HistoricalMeasures\Controllers\ValuesController.cs"
+-resource:"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\obj\Debug\netcoreapp1.0\HistoricalMeasuresdotnet-compile.deps.json",HistoricalMeasures.deps.json
+"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\Program.cs"
+"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\Startup.cs"
+"C:\Users\uzmamahmood\Repos\HistoricalMeasures\src\HistoricalMeasures\Controllers\ValuesController.cs"
